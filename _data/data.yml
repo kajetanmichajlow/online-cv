@@ -4,7 +4,7 @@
 
 sidebar:
     about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    Opleidingen: True # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Kajetan Michajlow
@@ -24,7 +24,6 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-
 Talen:
       - idiom: Nederlands
         level: Vloeiend
