@@ -55,17 +55,13 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: HBO Rechten
+      university: Juridische Hogeschool Avans-Fontys, Den Bosch
+      time: 2017-2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Ik ben erg gedreven en enthousiast. Ik zie elke dag als een kans om iets nieuws te leren. 
+        Ik ben een grote denker, maar een nog grotere doener. Daarnaast ben ik sociaalvaardig en leergierig. 
+        Mijn culturele achtergrond zorgt ervoor dat ik goed met verschillende mensen overweg kan.
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
