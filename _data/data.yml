@@ -26,27 +26,27 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Nederlands
+        level: Vloeiend
 
-      - idiom: French
-        level: Professional
+      - idiom: Pools
+        level: Moedertaal
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Engels
+        level: C1, professioneel
 
     interests:
-      - item: Climbing
+      - item: Koken
         link:
 
-      - item: Snowboarding
+      - item: Lezen
         link:
 
-      - item: Cooking
+      - item: Politiek
         link:
 
 career-profile:
-    title: Career Profile
+    title: Profiel
     summary: |
       Ik ben erg gedreven en enthousiast. Ik zie elke dag als een kans om iets nieuws te leren. 
         Ik ben een grote denker, maar een nog grotere doener. Daarnaast ben ik sociaalvaardig en leergierig. 
@@ -57,17 +57,11 @@ education:
       time: 2017-2021
       details: |
         
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Havo
+      university: Willem van Oranje College, Waalwijk
+      time: 2013-2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        
 experiences:
     - role: Lead Developer
       time: 2015 - Present
