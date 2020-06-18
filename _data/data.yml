@@ -51,7 +51,7 @@ career-profile:
       Ik ben erg gedreven en enthousiast. Ik zie elke dag als een kans om iets nieuws te leren. 
         Ik ben een grote denker, maar een nog grotere doener. Daarnaast ben ik sociaalvaardig en leergierig. 
         Mijn culturele achtergrond zorgt ervoor dat ik goed met verschillende mensen overweg kan.
-education:
+Opleidingen:
     - degree: HBO Rechten
       university: Juridische Hogeschool Avans-Fontys, Den Bosch
       time: 2017-2021
@@ -62,7 +62,7 @@ education:
       time: 2013-2017
       details: |
         
-experiences:
+Werkervaring:
     - role: Stagiair
       time: 9/2019 - 1/2020
       company: Stichting Achmea Rechtsbijstand
@@ -71,7 +71,7 @@ experiences:
         koppelde aan netwerkpartners van Achmea. Ik ben verantwoordelijk geweest voor een tweetal van 
         advocatenkantoren, en een eigen klantportefeuille. Daarnaast behandelde ik klachten van mijn 
         klanten. 
-projects:
+Projecten:
     title: Projects
     intro: >
       Hieronder krijgt u een bloemlezing van projecten waaraan ik heb bijgedragen.
@@ -118,7 +118,7 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
+Vaardigheden:
     title: Skills &amp; Proficiency
 
     toolset:
@@ -141,4 +141,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Gemaakt door K.J. Michajlow.
