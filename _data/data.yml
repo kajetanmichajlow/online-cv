@@ -3,77 +3,77 @@
 #
 
 sidebar:
-    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    Opleidingen: True # set to False if you want education in main section instead of in sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Kajetan Michajlow
-    tagline: Jurist in spé
-    avatar: ik.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Alan Doe
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: kj.michajlow@student.avans.nl
-    phone: 06 1212121212
-    website: kajetanmichajlow.github.io/online-cv/ #do not add http://
-    linkedin: kjmichajlow
-    github: 
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    github: sharu725
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: 
+    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-Talen:
-      - idiom: Nederlands
-        level: Vloeiend
+    languages:
+      - idiom: English
+        level: Native
 
-      - idiom: Pools
-        level: Moedertaal
+      - idiom: French
+        level: Professional
 
-      - idiom: Engels
-        level: C1, professioneel
+      - idiom: Spanish
+        level: Professional
 
     interests:
-      - item: Koken
+      - item: Climbing
         link:
 
-      - item: Lezen
+      - item: Snowboarding
         link:
 
-      - item: Politiek
+      - item: Cooking
         link:
 
 career-profile:
-    title: Profiel
+    title: Mijn profiel
     summary: |
       Ik ben erg gedreven en enthousiast. Ik zie elke dag als een kans om iets nieuws te leren. 
-        Ik ben een grote denker, maar een nog grotere doener. Daarnaast ben ik sociaalvaardig en leergierig. 
-        Mijn culturele achtergrond zorgt ervoor dat ik goed met verschillende mensen overweg kan.
-Opleidingen:
+      Ik ben een grote denker, maar een nog grotere doener. Daarnaast ben ik sociaalvaardig en leergierig. 
+      Mijn culturele achtergrond zorgt ervoor dat ik goed met verschillende mensen overweg kan.
+education:
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
     - degree: HBO Rechten
       university: Juridische Hogeschool Avans-Fontys, Den Bosch
       time: 2017-2021
       details: |
-        
-    - degree: Havo
-      university: Willem van Oranje College, Waalwijk
-      time: 2013-2017
-      details: |
-        
-<<<<<<< HEAD
-Werkervaring:
-    - role: Stagiair
-      time: 9/2019 - 1/2020
-      company: Stichting Achmea Rechtsbijstand
-      details: |
-        Ik ben werkzaam geweest op de afdeling Inkoop en Uitbesteding waar ik in een groot team zaken 
-        koppelde aan netwerkpartners van Achmea. Ik ben verantwoordelijk geweest voor een tweetal van 
-        advocatenkantoren, en een eigen klantportefeuille. Daarnaast behandelde ik klachten van mijn 
-        klanten. 
-Projecten:
-=======
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -113,7 +113,6 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
->>>>>>> parent of ff1b47c... Update data.yml
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
@@ -162,7 +161,7 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-Vaardigheden:
+skills:
     title: Skills &amp; Proficiency
 
     toolset:
@@ -185,4 +184,4 @@ Vaardigheden:
         level: 60%
 
 footer: >
-    Gemaakt door K.J. Michajlow.
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
