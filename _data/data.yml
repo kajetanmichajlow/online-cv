@@ -12,8 +12,8 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: kj.michajlow@student.avans.nl
+    phone: 06 1212121212
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     github: sharu725
@@ -48,20 +48,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Ik ben erg gedreven en enthousiast. Ik zie elke dag als een kans om iets nieuws te leren. 
+        Ik ben een grote denker, maar een nog grotere doener. Daarnaast ben ik sociaalvaardig en leergierig. 
+        Mijn culturele achtergrond zorgt ervoor dat ik goed met verschillende mensen overweg kan.
 education:
     - degree: HBO Rechten
       university: Juridische Hogeschool Avans-Fontys, Den Bosch
       time: 2017-2021
       details: |
-        Ik ben erg gedreven en enthousiast. Ik zie elke dag als een kans om iets nieuws te leren. 
-        Ik ben een grote denker, maar een nog grotere doener. Daarnaast ben ik sociaalvaardig en leergierig. 
-        Mijn culturele achtergrond zorgt ervoor dat ik goed met verschillende mensen overweg kan.
+        
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
