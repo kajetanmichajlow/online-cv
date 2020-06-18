@@ -70,11 +70,11 @@ Werkervaring:
         koppelde aan netwerkpartners van Achmea. Ik ben verantwoordelijk geweest voor een tweetal van 
         advocatenkantoren, en een eigen klantportefeuille. Daarnaast behandelde ik klachten van mijn 
         klanten. 
-Projecten:
+Projecten: 
     title: Projects
     intro: >
       Hieronder krijgt u een bloemlezing van projecten waaraan ik heb bijgedragen.
-    assignments:
+    assignments: 
       - title: Velocity
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
@@ -95,13 +95,13 @@ Projecten:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
+publications: 
     title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
-    papers:
+    papers: 
       - title: The Art of Computer Programming
         link: "#"
         authors: Donald E. Knuth
@@ -117,10 +117,10 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-Vaardigheden:
+Vaardigheden: 
     title: Skills &amp; Proficiency
 
-    toolset:
+    toolset: 
       - name: Python & Django
         level: 98%
 
